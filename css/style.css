@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  min-height: 100vh;
+  width: 100%;
+  position: relative;
+  background: url("../img/carnaby-82KWr7KHwDg-unsplash 1.png") lightgray 50% /
+    cover no-repeat;
+}
+
+.btn {
+  position: absolute;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  width: 41px;
+  height: 41px;
+}
+
+.btn__open_green {
+  width: 120px;
+  height: 41px;
+  display: flex;
+  padding: 11px 15px;
+  align-items: center;
+  gap: 15px;
+
+  border-radius: 40px;
+  border: 1px solid #6abf4b;
+  background: #6abf4b;
+
+  color: #fff;
+  font-family: Arial;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.btn__open_blue {
+  width: 120px;
+  height: 41px;
+  display: flex;
+  padding: 11px 15px;
+  align-items: center;
+  gap: 15px;
+
+  border-radius: 40px;
+  border: 1px solid #3877ee;
+  background: #3877ee;
+
+  color: #fff;
+  font-family: Arial;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.btn__stadium {
+  left: 36%;
+  right: 62%;
+  top: 45%;
+  bottom: 42%;
+}
+
+.btn__building_1 {
+  left: 60%;
+  right: 35%;
+  top: 37%;
+  bottom: 52%;
+}
+
+.btn__building_2 {
+  left: 58%;
+  right: 34%;
+  top: 74%;
+  bottom: 26%;
+}
+
+.btn__building_3 {
+  left: 68%;
+  right: 34%;
+  top: 62%;
+  bottom: 29%;
+}
+
+.btn__building_4 {
+  left: 30%;
+  right: 59%;
+  top: 25%;
+  bottom: 64%;
+}
+
+.btn__stairs {
+  left: 23%;
+  right: 64%;
+  top: 67%;
+  bottom: 24%;
+}
+
+.btn__stadium_column {
+  left: 56%;
+  right: 37%;
+  top: 58%;
+  bottom: 33%;
+}
+
+.btn__building_5 {
+  left: 73%;
+  right: 30%;
+  top: 43%;
+  bottom: 46%;
+}
+
+.btn__building_6 {
+  left: 71%;
+  right: 30%;
+  top: 19%;
+  bottom: 80%;
+}
+
+.btn__building_7 {
+  left: 83%;
+  right: 27%;
+  top: 67%;
+  bottom: 30%;
+}
